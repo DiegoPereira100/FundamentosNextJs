@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.vermelho {
+  background-color: #8a2be2;
+  color: #fff;
+}
