@@ -1,12 +1,12 @@
 import Header from "../components/Header";
+import Layout from "../components/Layout";
 
 export default function Exemplo() {
     return (
-        <h1>
-            <div>
+            <Layout titulo="Usando Componentes">
                 <Header titulo= "Next.js & React" /> 
                 <Header titulo="Aprende" />
-            </div>
-        </h1>
+            </Layout>
+        
     )
 }
