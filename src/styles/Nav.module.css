@@ -1,6 +1,7 @@
 .nav {
-    background-color: #1e90ff;
     padding: 30px;
     margin: 10px;
     border-radius: 8px;
+    background-color: #df00d7;
+    cursor: pointer;
 }
